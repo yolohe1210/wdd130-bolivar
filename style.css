@@ -37,8 +37,13 @@ header {
     display: grid;
     grid-template-columns: 1fr 3fr;
 <<<<<<< HEAD
+<<<<<<< HEAD
     margin: 50px;
     background-color: var(--c2-Secondary);
+=======
+    padding: 50px;
+    background: #004539;
+>>>>>>> 433bacfcf8fd0cf314fa60d59a399474544909de
 =======
     padding: 50px;
     background: #004539;
@@ -88,6 +93,7 @@ nav a {
     text-decoration: none;
     grid-row: 2/3;
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 
 
@@ -107,6 +113,8 @@ main {
 
 /* WALMART CSS */
 =======
+=======
+>>>>>>> 433bacfcf8fd0cf314fa60d59a399474544909de
     color: #FEF9EF;
 }
 
@@ -150,5 +158,9 @@ footer p {
 }
 .main_info p {
     padding-top: 20px;
+<<<<<<< HEAD
+}
+>>>>>>> 433bacfcf8fd0cf314fa60d59a399474544909de
+=======
 }
 >>>>>>> 433bacfcf8fd0cf314fa60d59a399474544909de
