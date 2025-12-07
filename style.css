@@ -111,9 +111,14 @@ main {
     width: 100%;
 }
 
-.heading-costco {
-    margin: auto;
-    
+#content {
+    text-align: center;
+    margin: 50px 20px 50px 20px;
+}
+
+#content p {
+    margin-bottom: 40px;
+    padding-bottom: 40px;
 }
 
 /* WALMART CSS */
