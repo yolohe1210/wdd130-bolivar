@@ -92,41 +92,8 @@ nav li img {
 nav a {
     text-decoration: none;
     grid-row: 2/3;
-/* <<<<<<< HEAD
-<<<<<<< HEAD */
+    color: #FEF9EF;
 }
-
-
-/* COSTCO CSS */
-
-body {
-    background-color: var(--c1-Primary);
-}
-
-main {
-    background-color: var(--c2-Secondary);
-}
-
-#costco-img {
-    width: 100%;
-}
-
-#content {
-    text-align: center;
-    margin: 50px 20px 50px 20px;
-}
-
-#content p {
-    margin-bottom: 40px;
-    padding-bottom: 40px;
-}
-
-/* WALMART CSS */
-/* =======
-=======
->>>>>>> 433bacfcf8fd0cf314fa60d59a399474544909de */
-    /* color: #FEF9EF;
-} */
 
 nav a:hover {
     color: #736F72;
@@ -168,9 +135,31 @@ footer p {
 }
 .main_info p {
     padding-top: 20px;
-/* <<<<<<< HEAD */
 }
-/* >>>>>>> 433bacfcf8fd0cf314fa60d59a399474544909de
-=======
+
+
+/* COSTCO CSS */
+
+body {
+    background-color: var(--c1-Primary);
 }
->>>>>>> 433bacfcf8fd0cf314fa60d59a399474544909de */
+
+main {
+    background-color: var(--c2-Secondary);
+}
+
+#costco-img {
+    width: 100%;
+}
+
+#content {
+    text-align: center;
+    margin: 50px 20px 50px 20px;
+}
+
+#content p {
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+}
+
+/* WALMART CSS */
